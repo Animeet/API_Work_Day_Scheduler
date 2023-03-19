@@ -8,7 +8,7 @@ You can track your schedule throughout the day with color-coordinated sections s
 When you save your information within the boxes around the cooresponding time, you can save that information.
 
 
-Deployed Application URL: https://animeet.github.io/Work_Day_Scheduler/
+Deployed Application URL: https://animeet.github.io/API_Work_Day_Scheduler/
 
 
 ![Work Day Scheduler](./assets/images/RUT-scheduler.png)
